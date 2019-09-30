@@ -1,0 +1,132 @@
+{
+  "foods": [{
+      "id": 1,
+      "foodName": "Egg",
+      "serving": 2.0,
+      "size": "ounce",
+      "calories": 202,
+      "fat": 202,
+      "satfat": 4.0,
+      "carb": 2.68,
+      "fiber": 0.0,
+      "sugar": 0.0,
+      "protein": 13.52,
+      "sodium": 6.28
+    },
+    {
+      "id": 2,
+      "foodName": "Beef Sandwich",
+      "serving": 2.0,
+      "size": "custom",
+      "calories": 500,
+      "fat": 402.0,
+      "satfat": 20.0,
+      "carb": 43.68,
+      "fiber": 300.0,
+      "sugar": 210.0,
+      "protein": 30.52,
+      "sodium": 63.28
+    },
+    {
+      "id": 3,
+      "foodName": "Chicken Sandwich",
+      "serving": 2.0,
+      "size": "custom",
+      "calories": 400,
+      "fat": 302.0,
+      "satfat": 40.0,
+      "carb": 23.68,
+      "fiber": 100.0,
+      "sugar": 140.0,
+      "protein": 10.52,
+      "sodium": 33.28
+    },
+    {
+      "foodName": "Chicken kabab",
+      "serving": 6,
+      "size": "ounce",
+      "calories": 567,
+      "fat": 56,
+      "satfat": 67,
+      "carb": 56,
+      "fiber": 44,
+      "sugar": 56,
+      "protein": 45,
+      "sodium": 5,
+      "id": 4
+    },
+    {
+      "foodName": "Beef grill",
+      "serving": 2,
+      "size": "ounce",
+      "calories": 400,
+      "fat": 56,
+      "satfat": 34,
+      "carb": 565,
+      "fiber": 45,
+      "sugar": 34,
+      "protein": 23,
+      "sodium": 12,
+      "id": 5
+    },
+    {
+      "foodName": "Paneer Tikka",
+      "serving": 2,
+      "size": "ounce",
+      "calories": 678,
+      "fat": 67,
+      "satfat": 87,
+      "carb": 876,
+      "fiber": 67,
+      "sugar": 665,
+      "protein": 56,
+      "sodium": 7,
+      "id": 6
+    },
+    {
+      "foodName": "Paneer Pasinda",
+      "serving": 567,
+      "size": "ounce",
+      "calories": 45,
+      "fat": 34,
+      "satfat": 23,
+      "carb": 67,
+      "fiber": 7,
+      "sugar": 9,
+      "protein": 78,
+      "sodium": 9,
+      "id": 7
+    }
+  ],
+  "exercise": [{
+      "id": 1,
+      "exerciseName": "jogging, general",
+      "minutes": 10,
+      "caloriesBurnt": 200
+    },
+    {
+      "id": 2,
+      "exerciseName": "jogging/walk combination (jogging component of less...)",
+      "minutes": 10,
+      "caloriesBurnt": 150
+    },
+    {
+      "id": 3,
+      "exerciseName": "jogging, in place",
+      "minutes": 10,
+      "caloriesBurnt": 140
+    },
+    {
+      "id": 4,
+      "exerciseName": "jogging, on a mini-tramp",
+      "minutes": 10,
+      "caloriesBurnt": 100
+    },
+    {
+      "id": 5,
+      "exerciseName": "water jogging",
+      "minutes": 10,
+      "caloriesBurnt": 230
+    }
+  ]
+}

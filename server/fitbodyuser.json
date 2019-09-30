@@ -1,0 +1,165 @@
+{
+  "userprofile": [
+    {
+      "email": "mmitrasish@gmail.com",
+      "password": "12345",
+      "firstname": "Mitrasish",
+      "lastname": "Mukherjee",
+      "gender": "Male",
+      "birthday": "12 Jan 1997",
+      "height": 200,
+      "activity": "light",
+      "weight": [
+        {
+          "date": "26 Oct 2019",
+          "weight": "200.0"
+        },
+        {
+          "date": "27 Sep 2019",
+          "weight": 150
+        }
+      ],
+      "bmi": "28.0",
+      "calories": "2.41",
+      "points": "30.0",
+      "foodEaten": [
+        {
+          "date": "26 Oct 2019",
+          "foods": [
+            {
+              "foodName": "Chicken kabab",
+              "serving": 6,
+              "size": "",
+              "calories": 567,
+              "fat": 56,
+              "satfat": 67,
+              "carb": 56,
+              "fiber": 44,
+              "sugar": 56,
+              "protein": 45,
+              "sodium": 5
+            },
+            {
+              "foodName": "Chicken Sandwich",
+              "serving": 2,
+              "size": "custom",
+              "calories": 400,
+              "fat": 302,
+              "satfat": 40,
+              "carb": 23.68,
+              "fiber": 100,
+              "sugar": 140,
+              "protein": 10.52,
+              "sodium": 33.28
+            },
+            {
+              "foodName": "Beef grill",
+              "serving": 2,
+              "size": "ounce",
+              "calories": 400,
+              "fat": 56,
+              "satfat": 34,
+              "carb": 565,
+              "fiber": 45,
+              "sugar": 34,
+              "protein": 23,
+              "sodium": 12
+            }
+          ]
+        },
+        {
+          "date": "28 Oct 2019",
+          "foods": [
+            {
+              "foodName": "Chicken kabab",
+              "serving": 6,
+              "size": "",
+              "calories": 567,
+              "fat": 56,
+              "satfat": 67,
+              "carb": 56,
+              "fiber": 44,
+              "sugar": 56,
+              "protein": 45,
+              "sodium": 5
+            },
+            {
+              "foodName": "Paneer Pasinda",
+              "serving": 567,
+              "size": "ounce",
+              "calories": 45,
+              "fat": 34,
+              "satfat": 23,
+              "carb": 67,
+              "fiber": 7,
+              "sugar": 9,
+              "protein": 78,
+              "sodium": 9
+            },
+            {
+              "foodName": "Chicken Sandwich",
+              "serving": 2,
+              "size": "custom",
+              "calories": 400,
+              "fat": 302,
+              "satfat": 40,
+              "carb": 23.68,
+              "fiber": 100,
+              "sugar": 140,
+              "protein": 10.52,
+              "sodium": 33.28
+            }
+          ]
+        },
+        {
+          "date": "27 Oct 2019",
+          "foods": [
+            {
+              "foodName": "Paneer Tikka",
+              "serving": 2,
+              "size": "ounce",
+              "calories": 678,
+              "fat": 67,
+              "satfat": 87,
+              "carb": 876,
+              "fiber": 67,
+              "sugar": 665,
+              "protein": 56,
+              "sodium": 7
+            },
+            {
+              "foodName": "Chicken Sandwich",
+              "serving": 2,
+              "size": "custom",
+              "calories": 400,
+              "fat": 302,
+              "satfat": 40,
+              "carb": 23.68,
+              "fiber": 100,
+              "sugar": 140,
+              "protein": 10.52,
+              "sodium": 33.28
+            }
+          ]
+        }
+      ],
+      "exerciseDone": [
+        {
+          "date": "26 Oct 2019",
+          "exercises": [
+            {
+              "exerciseName": "water jogging",
+              "minutes": "10",
+              "caloriesBurnt": "230"
+            },
+            {
+              "exerciseName": "jogging/walk combination (jogging component of less...)",
+              "minutes": "20",
+              "caloriesBurnt": "150"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
